@@ -1,0 +1,10 @@
+*.jar
+*.log
+*.jnlp
+*.class
+**/.classpath
+**/.project
+**/.compatibility
+**/.settings/
+target/
+bin/
